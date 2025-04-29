@@ -14,3 +14,4 @@ Lenguajes que estudió:
 - SQL
 
 PUEDES CONTACTARME POR AQUÍ:
+https://x.com/JaviUshiromiya
