@@ -5,8 +5,8 @@ Soy Javieru, un estudiande de DAW de primer año apasionado por la informática 
 Me gusta programar, jugar, crear contenido y hacer ejercicio.
 
 Mis proyectos destacados son:
-- BURGUER MEAL 2 ORIENDADO A OBJETOS
-- Base de Datos restaurante.
+- BURGUER MEAL 2 ORIENDADO A OBJETOS 🍔
+- Base de Datos restaurante 🍽
 
 Lenguajes que estudió:
 - Java ☕
