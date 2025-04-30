@@ -13,5 +13,5 @@ Lenguajes que estudió:
 - JavaScript
 - SQL
 
-PUEDES CONTACTARME POR AQUÍ:
+📫 PUEDES CONTACTARME POR AQUÍ:
 https://x.com/JaviUshiromiya
