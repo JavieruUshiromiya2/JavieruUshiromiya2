@@ -13,10 +13,8 @@ Me gusta programar, jugar, crear contenido y hacer ejercicio.
 
 # Lenguajes que estudió:
 - Java ☕
-- JavaScript ![E068_color](https://github.com/user-attachments/assets/5a44094c-1ac8-4855-83e4-e8c5887bb830)
-
-
-- SQL
+- JavaScript 💡
+- SQL 📊
 
 📫 PUEDES CONTACTARME POR AQUÍ:
 https://x.com/JaviUshiromiya
