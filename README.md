@@ -1,4 +1,4 @@
-![E068](https://github.com/user-attachments/assets/231da4f5-a00f-4886-934d-dd69305fd049)## Hi there I'm Javieru 👋
+## Hi there I'm Javieru 👋
 
 ![BANNER_GITHUB_0 9](https://github.com/user-attachments/assets/df7afba1-62a5-431e-a9a3-6bd0716004ee)
 
