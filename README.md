@@ -1,4 +1,4 @@
-![ChristmasTreesDecoratedChristmasLightsGIF](https://github.com/user-attachments/assets/a92b0e2a-b6b4-4188-82a1-123a6d5bffa4)## Hi there I'm Javieru 👋
+# Hi there I'm Javieru 👋
 
 ![BANNER_GITHUB_0 9](https://github.com/user-attachments/assets/df7afba1-62a5-431e-a9a3-6bd0716004ee)
 
